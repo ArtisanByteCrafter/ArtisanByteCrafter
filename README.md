@@ -11,11 +11,13 @@ Full Portfolio: https://www.natelab.us/portfolio/
 
 Blog: https://www.natelab.us
 
-- 📫 How to reach me:
-  - Twitter: [@ArtisanBCrafter](https://www.twitter.com/ArtisanBCrafter)
+
 
 <!--
 **ArtisanByteCrafter/ArtisanByteCrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 📫 How to reach me:
+  - Twitter: [@ArtisanBCrafter](https://www.twitter.com/ArtisanBCrafter)
 
 Here are some ideas to get you started:
 
