@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nathaniel Webb, and I'm a Powershell Developer at S7 Technologies Group, LLC
+I'm Nathaniel Webb, and I'm a Business Intelligence Developer who loves Powershell.
 
 I'm the author and maintainer of:
 
