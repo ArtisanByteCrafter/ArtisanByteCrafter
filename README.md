@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nathaniel Webb, and I'm a Business Intelligence Developer who loves Powershell.
+I'm Nathaniel Webb, and I'm a Data Scientist who loves Powershell and Python.
 
 I'm the author and maintainer of:
 
