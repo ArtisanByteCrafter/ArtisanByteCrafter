@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Nathaniel Webb, and I'm a Data Scientist who loves Powershell and Python.
+I'm Nathaniel Webb, and I'm a Data Scientist who loves Powershell and Python. This is a github archive of my public FOSS projects, and I invite you to [follow my active development account at Codeberg](https://codeberg.org/ArtisanByteCrafter).
 
 I'm the author and maintainer of:
 
-* [KaceSMA](https://github.com/ArtisanByteCrafter/KaceSMA)
-* [Pop! OS Theme for VSCode](https://github.com/ArtisanByteCrafter/VSCodePopTheme)
+* [KaceSMA](https://codeberg.org/ArtisanByteCrafter/KaceSMA)
+* [Pop! OS Theme for VSCode](https://codeberg.org/ArtisanByteCrafter/VSCodePopTheme)
 
 Full Portfolio: https://www.natelab.us/portfolio/
 
